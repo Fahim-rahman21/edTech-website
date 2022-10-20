@@ -1,0 +1,21 @@
+/* header start  */
+.h-h1{
+    font-family: Poppins;
+        font-size: 40px;
+        font-weight: 600;
+        line-height: 60px;
+        letter-spacing: 0em;
+        text-align: center;
+}
+.c-btn{
+    color: #289BDE;
+    border: 1px solid #289BDE;
+}
+.c-btn:hover{
+    color: white;
+    background: #289BDE;
+    border: 0px;
+    cursor: ;
+}
+
+/* header end  */
