@@ -57,6 +57,7 @@
     background-color: #289BDE;
     border: 1px solid #289BDE;
     padding: 7px 33px;
+    transition: .3s;
 }
 .c-btn:hover{
     color: #289BDE;
@@ -67,6 +68,60 @@
   /* margin: 1 0; */
   
 }
-
-
 /* carousel slider end */
+/* pro edu card start */
+.h-heading{
+    font-family: 'Poppins',sans-serif;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 60px;
+    color: #1d1d1d;
+}
+.card-heading{
+
+}
+.pro-card{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 35px;
+    color: #4A4A4A;
+}
+.c-text{
+    font-family: 'Poppins', sans-serif;
+    Font-size: 14px;
+    Line-height: 23px;
+    margin: -3px 0px 3px 0px;
+        
+}
+.dolar{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 27px;
+    color: #289BDE;
+    padding-top:5px;
+}
+
+
+
+
+/* pro edu card end */
+/* button start */
+.btn-see-more{
+    font-family: 'Poppins', sans-serif;
+    Font-size: 16px;
+    font-weight: 600;
+    Line-height: 30px;
+    color: #FFFFFF;
+    background-color: #289BDE;
+    border: 1px solid #289BDE;
+    padding: 7px 33px;
+    transition: .3s;
+}
+.btn-see-more:hover{
+    color: #289BDE;
+    background-color: #F4F4F4;
+}
+
+/* button end */
