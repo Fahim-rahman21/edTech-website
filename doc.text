@@ -2,3 +2,7 @@
         <!-- logo -->
         <h1 class="h-h1">Pro Edu</h1>
     </a>
+
+    font{
+        font-family: 'Poppins', sans-serif;
+    }

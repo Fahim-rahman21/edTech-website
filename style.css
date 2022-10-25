@@ -1,21 +1,72 @@
-/* header start  */
-.h-h1{
-    font-family: Poppins;
-        font-size: 40px;
-        font-weight: 600;
-        line-height: 60px;
-        letter-spacing: 0em;
-        text-align: center;
+* {
+    margin: 0;
+    padding: 0;
 }
-.c-btn{
+
+/* header start  */
+.h-h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #4A4A4A;
+}
+
+.menu {
+    color: #777777;
+}
+
+.h-btn {
+    font-family: 'Poppins', sans-serif;
     color: #289BDE;
     border: 1px solid #289BDE;
 }
-.c-btn:hover{
+
+.c-btn:hover {
+
     color: white;
     background: #289BDE;
     border: 0px;
-    cursor: ;
+    cursor: pointer;
 }
 
 /* header end  */
+/* carousel slider start */
+.c-header {
+    font-family: 'Poppins', sans-serif;
+    Font-size: 60px;
+    Line-height: 85px;
+
+}
+
+.p-text {
+    font-family: 'Poppins', sans-serif;
+    Font-size: 14px;
+    Line-height: 23px;
+    color: #F4F4F4;
+}
+
+.c-btn {
+    font-family: 'Poppins', sans-serif;
+    Font-size: 16px;
+    font-weight: 600;
+    Line-height: 30px;
+    color: #FFFFFF;
+    background-color: #289BDE;
+    border: 1px solid #289BDE;
+    padding: 7px 33px;
+}
+.c-btn:hover{
+    color: #289BDE;
+    background-color: #F4F4F4;
+}
+.c-banner{
+  padding: 160px 0;  
+  /* margin: 1 0; */
+  
+}
+
+
+/* carousel slider end */
